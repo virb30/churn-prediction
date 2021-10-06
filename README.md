@@ -5,6 +5,8 @@ modelo treinado utilizando o mesmo algoritmo e dados, mas com parâmetros "tunad
 
 A análise completa você encontra [aqui](https://colab.research.google.com/drive/10nzFeaKBYTbIussl6dK2QTvJTcsdiEX7#scrollTo=B_9mUHnwAqjL).
 
+O artigo do blog você confere [aqui](https://viniboscoa.dev/blog/churn-prediction)
+
 ### Contato
 
 * [Blog](https://viniboscoa.dev/blog)
